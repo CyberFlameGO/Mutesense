@@ -1,0 +1,13 @@
+{
+  "name": "mutesense",
+  "version": "1.0.0",
+  "description": "Monitor sound volume on windows and display using steelseries gamesense",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gamesense-client": "^2.0.2",
+    "loudness": "^0.4.1",
+    "node-webcam": "^0.8.0",
+    "windows-trayicon": "^3.0.0"
+  }
+}
